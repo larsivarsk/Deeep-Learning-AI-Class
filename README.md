@@ -1,15 +1,6 @@
-# Deeep-Learning-AI-Class
+## Deeep-Learning-AI-Class
 
-Here is the [link](https://github.com/git-ecosystem/git-credential-manager/blob/main/README.md) to help me with GitHub credentials in Ubuntu.
-_I really hope it works_**!**
+GitHub repository for my deep learning class at **Chung Ang University**.
 
-This should be a box with terminal commands:
-```
-git status
-git add .
-git commit -m "initial commit"
-git add origin main (insert link)
-git push -u origin main
-```
+I want to send you _love_ through this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-###### Test finished
